@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://lumozion.store/#organization",
+      "name": "Lumozion",
+      "url": "https://lumozion.store/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://framerusercontent.com/images/zHm6BfpgTQwC1txz1pZQODJxvE.jpg",
+        "width": 128,
+        "height": 128
+      },
+      "description": "Experience the next generation of online success with Lumozion's cutting-edge web development, crafting immersive digital solutions for your business.",
+      "sameAs": [
+        "https://www.instagram.com/lumozion/"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "ashwinasthanax@gmail.com",
+        "contactType": "Customer Service"
+      },
+      "founder": {
+        "@type": "Person",
+        "name": "Ashwin Asthana"
+      },
+      "foundingDate": "2024",
+      "slogan": "Future Of Web Development"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://lumozion.store/#website",
+      "url": "https://lumozion.store/",
+      "name": "Lumozion - Future Of Web Development",
+      "description": "Experience the next generation of online success with Lumozion's cutting-edge web development, crafting immersive digital solutions for your business.",
+      "publisher": {
+        "@id": "https://lumozion.store/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://lumozion.store/#webpage",
+      "url": "https://lumozion.store/",
+      "name": "Lumozion - Future Of Web Development",
+      "isPartOf": {
+        "@id": "https://lumozion.store/#website"
+      },
+      "about": {
+        "@id": "https://lumozion.store/#organization"
+      },
+      "description": "Experience the next generation of online success with Lumozion's cutting-edge web development, crafting immersive digital solutions for your business."
+    },
+    {
+      "@type": "ProfessionalService",
+      "name": "Lumozion Web Development",
+      "image": "https://framerusercontent.com/images/zHm6BfpgTQwC1txz1pZQODJxvE.jpg",
+      "description": "Professional web development services offering cutting-edge digital solutions",
+      "priceRange": "$$",
+      "url": "https://lumozion.store/",
+      "email": "ashwinasthanax@gmail.com",
+      "serviceType": [
+        "Web Development",
+        "Web Design",
+        "Digital Solutions",
+        "UI/UX Design",
+        "Frontend Development",
+        "Backend Development"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://lumozion.store/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Projects",
+          "item": "https://lumozion.store/#projects"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Services",
+          "item": "https://lumozion.store/#services"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Testimonials",
+          "item": "https://lumozion.store/#testimonials"
+        }
+      ]
+    }
+  ]
+}
