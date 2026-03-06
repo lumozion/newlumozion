@@ -3,7 +3,11 @@ Allow: /
 Disallow: /admin/
 Disallow: /private/
 
+Sitemap: https://lumozion.store/sitemap-index.xml
 Sitemap: https://lumozion.store/sitemap.xml
+Sitemap: https://lumozion.store/sitemap-images.xml
+Sitemap: https://lumozion.store/sitemap-video.xml
+Sitemap: https://lumozion.store/sitemap-news.xml
 
 User-agent: Googlebot
 Allow: /

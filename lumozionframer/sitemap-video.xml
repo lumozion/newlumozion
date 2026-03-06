@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://lumozion.store/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://lumozion.store/video-thumb.jpg</video:thumbnail_loc>
+      <video:title>Lumozion Showcase</video:title>
+      <video:description>Our creative work</video:description>
+      <video:content_loc>https://lumozion.store/video.mp4</video:content_loc>
+    </video:video>
+  </url>
+</urlset>

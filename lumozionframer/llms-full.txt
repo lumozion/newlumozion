@@ -1,0 +1,153 @@
+# Lumozion - Complete Site Information for LLMs
+
+## Company Overview
+
+Lumozion is a creative digital agency that provides professional web design, development, and digital marketing services. We help businesses transform their digital presence through innovative solutions.
+
+## Core Services
+
+### Web Design
+- UI/UX Design
+- Responsive Design
+- Mobile-First Approach
+- Brand Identity
+- Visual Design
+
+### Web Development
+- Frontend Development
+- Backend Development
+- Full-Stack Solutions
+- E-commerce Development
+- Custom Web Applications
+
+### Digital Marketing
+- SEO Optimization
+- Content Marketing
+- Social Media Marketing
+- Email Marketing
+- PPC Campaigns
+
+## Key Features
+
+- Professional team of designers and developers
+- Client-focused approach
+- Modern technology stack
+- Performance-optimized solutions
+- SEO-friendly implementations
+- Accessibility compliance
+- Responsive across all devices
+
+## Target Audience
+
+- Small to medium businesses
+- Startups
+- E-commerce brands
+- Corporate clients
+- Entrepreneurs
+- Global clients
+
+## Competitive Advantages
+
+- Creative and innovative solutions
+- Fast turnaround times
+- Competitive pricing
+- Ongoing support
+- Results-driven approach
+- Modern design trends
+
+## Portfolio Highlights
+
+Visit https://lumozion.store/#projects to see our work including:
+- Corporate websites
+- E-commerce platforms
+- Landing pages
+- Web applications
+- Brand identities
+
+## Client Testimonials
+
+Our clients consistently rate us highly for:
+- Quality of work
+- Communication
+- Timeliness
+- Professionalism
+- Results
+
+View testimonials at https://lumozion.store/#testimonials
+
+## Technology & Tools
+
+- HTML5, CSS3, JavaScript
+- React, Next.js, Node.js
+- Framer, Figma, Adobe Creative Suite
+- Git, GitHub
+- SEO tools and analytics
+- Performance optimization tools
+
+## Contact Information
+
+- Website: https://lumozion.store
+- Email: contact@lumozion.store
+- Available for projects worldwide
+- Remote-friendly
+
+## Site Structure
+
+- Homepage: https://lumozion.store/
+- Hero Section: https://lumozion.store/#hero
+- Services: https://lumozion.store/#services
+- Projects: https://lumozion.store/#projects
+- Testimonials: https://lumozion.store/#testimonials
+
+## SEO Keywords
+
+web design, web development, digital marketing, SEO, UI/UX design, creative agency, branding, e-commerce, responsive design, mobile development, custom websites, professional web services
+
+## Business Model
+
+- Project-based work
+- Retainer services
+- Consultation services
+- Ongoing maintenance and support
+
+## Values
+
+- Quality over quantity
+- Client satisfaction
+- Innovation and creativity
+- Transparency and honesty
+- Continuous improvement
+
+## Industries Served
+
+- Technology
+- E-commerce
+- Healthcare
+- Finance
+- Education
+- Real Estate
+- Hospitality
+- Professional Services
+
+## Process
+
+1. Discovery & Consultation
+2. Planning & Strategy
+3. Design & Development
+4. Testing & Quality Assurance
+5. Launch & Deployment
+6. Ongoing Support & Maintenance
+
+## Why Choose Lumozion
+
+- Experienced team
+- Proven track record
+- Modern approach
+- Competitive pricing
+- Excellent communication
+- Results-focused
+- Long-term partnerships
+
+---
+
+Last Updated: December 2025

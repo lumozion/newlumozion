@@ -1,0 +1,44 @@
+# Lumozion
+
+> Creative Digital Solutions | Web Design & Development
+
+## About
+
+Lumozion is a creative digital agency specializing in web design, web development, and digital marketing services. We transform businesses through innovative digital solutions.
+
+## Services
+
+- Web Design & UI/UX
+- Web Development
+- Digital Marketing
+- SEO Optimization
+- Brand Identity
+- E-commerce Solutions
+
+## Contact
+
+- Website: https://lumozion.store
+- Email: contact@lumozion.store
+
+## Projects
+
+We deliver high-quality digital experiences for clients worldwide. View our portfolio at https://lumozion.store/#projects
+
+## Testimonials
+
+Our clients trust us to deliver exceptional results. See what they say at https://lumozion.store/#testimonials
+
+## Technology Stack
+
+- Modern web frameworks
+- Responsive design
+- Performance optimization
+- SEO best practices
+- Accessibility compliance
+
+## Links
+
+- Home: https://lumozion.store/
+- Services: https://lumozion.store/#services
+- Projects: https://lumozion.store/#projects
+- Testimonials: https://lumozion.store/#testimonials
